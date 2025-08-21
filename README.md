@@ -26,7 +26,5 @@ Once published with GitHub Pages, your site will be here:
 - LinkedIn: [Samni Hasnath](https://www.linkedin.com/in/samni-hasnath03/)
 - GitHub: [@samnihasnath](https://github.com/samnihasnath)
 
-## 📸 Screenshots
-_Add a screenshot (drag an image into the README on GitHub after uploading the site)._
 
 
